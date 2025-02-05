@@ -107,14 +107,14 @@ Feel free to explore the repositories and reach out if you have any questions or
 - **Big Data & Cloud Computing** (if applicable)  
 
 ### Visualization & Reporting  
-- **Tableau, Power BI, Streamlit**  
-- **Matplotlib, Seaborn, Plotly**  
+- **Power BI**  
+- **Matplotlib, Seaborn**  
 
 ---
 
 ## 📬 **Let's Connect!**  
-- **LinkedIn:** www.linkedin.com/in/thaís-m-45a25a1a5 
-- **GitHub:** [Your GitHub Profile]  
-- **Email:** yuukosan98@gmail.com 
+- **LinkedIn:** [www.linkedin.com/in/thaís-m-45a25a1a5]
+- **GitHub:** [https://github.com/metsumesquita]  
+- **Email:** [yuukosan98@gmail.com] 
 
 🚀 *Thank you for visiting my portfolio! Feel free to check out my projects and reach out!*  
